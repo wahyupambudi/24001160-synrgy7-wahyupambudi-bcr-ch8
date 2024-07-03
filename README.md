@@ -22,6 +22,8 @@ Challenge Chapter 8 - continuing the project from challenge 7 to setup eslint, t
 https://github.com/wahyupambudi/be-bcr-ch6
 ### Deploy on Railway
 https://be-bcr-ch6-production.up.railway.app/
+### Open API
+https://be-bcr-ch6-production.up.railway.app/api-docs
 
 ## Link Frontend
 ### Github Repository
